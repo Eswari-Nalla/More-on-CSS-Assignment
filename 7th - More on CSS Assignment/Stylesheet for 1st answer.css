@@ -1,0 +1,42 @@
+nav {
+    background-color: blue;
+    padding: 20px;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: white;
+    margin: 20px;
+}
+
+a:hover {
+    color: darkorange;
+}
+
+.home {
+    border: 2px solid yellow;
+    padding: 2px;
+}
+
+.aboutus {
+    border: 2px dotted azure;
+    padding: 2px;
+}
+
+.contactus {
+    border: 2px dashed aliceblue;
+    padding: 2px;
+}
+
+.blog {
+    border: 2px double antiquewhite;
+    padding: 2px;
+}
+
+.login {
+    border: 2px groove antiquewhite;
+    padding: 2px;
+}
